@@ -27,6 +27,6 @@ let lengthOne = stringOne.length;
 let lengthTwo = stringTwo.length;
 let lengthThree = stringThree.length; 
 
-console.log(lengthOne);
-console.log(lengthTwo);
-console.log(lengthThree);
+console.log(lengthOne);//15
+console.log(lengthTwo);//10
+console.log(lengthThree);//0
